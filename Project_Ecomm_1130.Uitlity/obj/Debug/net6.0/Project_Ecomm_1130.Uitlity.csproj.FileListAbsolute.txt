@@ -1,0 +1,12 @@
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.Uitlity\bin\Debug\net6.0\Project_Ecomm_1130.Uitlity.deps.json
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.Uitlity\bin\Debug\net6.0\Project_Ecomm_1130.Uitlity.dll
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.Uitlity\bin\Debug\net6.0\Project_Ecomm_1130.Uitlity.pdb
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.Uitlity\obj\Debug\net6.0\Project_Ecomm_1130.Uitlity.csproj.AssemblyReference.cache
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.Uitlity\obj\Debug\net6.0\Project_Ecomm_1130.Uitlity.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.Uitlity\obj\Debug\net6.0\Project_Ecomm_1130.Uitlity.AssemblyInfoInputs.cache
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.Uitlity\obj\Debug\net6.0\Project_Ecomm_1130.Uitlity.AssemblyInfo.cs
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.Uitlity\obj\Debug\net6.0\Project_Ecomm_1130.Uitlity.csproj.CoreCompileInputs.cache
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.Uitlity\obj\Debug\net6.0\Project_Ecomm_1130.Uitlity.dll
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.Uitlity\obj\Debug\net6.0\refint\Project_Ecomm_1130.Uitlity.dll
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.Uitlity\obj\Debug\net6.0\Project_Ecomm_1130.Uitlity.pdb
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.Uitlity\obj\Debug\net6.0\ref\Project_Ecomm_1130.Uitlity.dll

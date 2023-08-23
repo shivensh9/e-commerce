@@ -1,0 +1,309 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Project_Ecomm_1130.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Project_Ecomm_1130.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\Images\\products\\22d4b86d-e356-4e40-973b-8932dc2b0fa1.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\22d4b86d-e356-4e40-973b-8932dc2b0fa1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\Images\\products\\43141633-5b2a-4881-a410-01c868b9d560.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\43141633-5b2a-4881-a410-01c868b9d560.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\Images\\products\\4646c769-e278-4887-a1aa-fde2fd9d79d8.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\4646c769-e278-4887-a1aa-fde2fd9d79d8.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\Images\\products\\c8a6a013-0e5c-4072-8014-eb3e9d2fe581.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\c8a6a013-0e5c-4072-8014-eb3e9d2fe581.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\Images\\products\\f2aea4fd-46fe-4ed7-99fc-6377b159ea39.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\f2aea4fd-46fe-4ed7-99fc-6377b159ea39.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\Images\\success.jpg",
+      "PackagePath": "staticwebassets\\Images\\success.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\js\\category.js",
+      "PackagePath": "staticwebassets\\js\\category.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\js\\covertype.js",
+      "PackagePath": "staticwebassets\\js\\covertype.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NETCORE\\Project_Ecomm_1130\\Project_Ecomm_1130\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Project_Ecomm_1130.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Project_Ecomm_1130.props",
+      "PackagePath": "build\\Project_Ecomm_1130.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Project_Ecomm_1130.props",
+      "PackagePath": "buildMultiTargeting\\Project_Ecomm_1130.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Project_Ecomm_1130.props",
+      "PackagePath": "buildTransitive\\Project_Ecomm_1130.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,17 @@
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\bin\Debug\net6.0\Project_Ecomm_1130.DataAccess.deps.json
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\bin\Debug\net6.0\Project_Ecomm_1130.DataAccess.dll
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\bin\Debug\net6.0\Project_Ecomm_1130.DataAccess.pdb
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\obj\Debug\net6.0\Project_Ecomm_1130.DataAccess.csproj.AssemblyReference.cache
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\obj\Debug\net6.0\Project_Ecomm_1130.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\obj\Debug\net6.0\Project_Ecomm_1130.DataAccess.AssemblyInfoInputs.cache
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\obj\Debug\net6.0\Project_Ecomm_1130.DataAccess.AssemblyInfo.cs
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\obj\Debug\net6.0\Project_Ecomm_1130.DataAccess.csproj.CoreCompileInputs.cache
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\obj\Debug\net6.0\Project_Ecomm_1130.DataAccess.dll
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\obj\Debug\net6.0\refint\Project_Ecomm_1130.DataAccess.dll
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\obj\Debug\net6.0\Project_Ecomm_1130.DataAccess.pdb
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\obj\Debug\net6.0\ref\Project_Ecomm_1130.DataAccess.dll
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\bin\Debug\net6.0\Project_Ecomm_1130.DataAccess.runtimeconfig.json
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\obj\Debug\net6.0\Project_Ecomm_1130.DataAccess.genruntimeconfig.cache
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\bin\Debug\net6.0\Project_Ecomm_1130.Models.dll
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\bin\Debug\net6.0\Project_Ecomm_1130.Models.pdb
+D:\ASP.NETCORE\Project_Ecomm_1130\Project_Ecomm_1130.DataAccess\obj\Debug\net6.0\Project_Ecomm_1130.DataAccess.csproj.CopyComplete
